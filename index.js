@@ -23,6 +23,6 @@ function sayHiToGrandma(string)
   if (lowercase.toLowerCase() === lowercase){
   return string()
   }else if(uppercase.toUpperCase() === uppercase){
-  }else if()
+  }else if(love)
   }
 }
